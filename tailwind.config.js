@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      borderColor: {
+        'redditborder': '#343536',
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
